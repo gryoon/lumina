@@ -1,3 +1,6 @@
+<img width="1024" height="549" alt="image" src="https://github.com/user-attachments/assets/d79284a8-9107-4f51-a265-4e217fab0e3c" />
+anti gravity ai trainer
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
